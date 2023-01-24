@@ -20,7 +20,7 @@ sleep 5s ;
 # Descompactando os pacotes, usando um for, por sugestão do NoComments
 #
 
-packs="httpd-2.0.50.tar.gz php-4.3.8.tar.gz mysql-4.0.20.tar.gz"
+packs="httpd-2.0.50.tar.gz php-8.tar.gz mysql-4.0.20.tar.gz"
 
 for desc in $packs
 do
